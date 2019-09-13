@@ -1,0 +1,9 @@
+[submodule "1-podstawy"]
+	path = 1-podstawy
+	url = https://github.com/kurs-javascript/js-podstawy
+[submodule "2-obiekty"]
+	path = 2-obiekty
+	url = https://github.com/kurs-javascript/js-obiekty
+[submodule "3-dom"]
+	path = 3-dom
+	url = https://github.com/kurs-javascript/js-dom
