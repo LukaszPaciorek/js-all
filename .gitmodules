@@ -7,3 +7,15 @@
 [submodule "3-dom"]
 	path = 3-dom
 	url = https://github.com/kurs-javascript/js-dom
+[submodule "4-interval"]
+	path = 4-interval
+	url = https://github.com/kurs-javascript/js-interval
+[submodule "5-rwd"]
+	path = 5-rwd
+	url = https://github.com/kurs-javascript/js-rwd
+[submodule "6-ajax"]
+	path = 6-ajax
+	url = https://github.com/kurs-javascript/js-ajax
+[submodule "7-es6"]
+	path = 7-es6
+	url = https://github.com/kurs-javascript/js-es6
